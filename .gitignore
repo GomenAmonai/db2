@@ -1,2 +1,9 @@
+# SQLite или другие файлы баз
+*.db
+
+# Логи
 *.log
-*.sql
+
+# Кеш Python
+__pycache__/
+*.py[cod]
